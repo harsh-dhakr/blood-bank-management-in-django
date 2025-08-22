@@ -6,29 +6,6 @@ A modern, end‑to‑end Blood Bank Management System built with **Django**. It 
 
 ---
 
-## Table of Contents
-
-* ✨ [Features](#-features)
-* 🚀 [Tech Stack](#-tech-stack)
-* 📁 [Project Structure](#-project-structure)
-* ⚙️ [Prerequisites](#-prerequisites)
-* 🛠️ [Setup Instructions](#-setup-instructions)
-
-  * Backend (Django)
-  * Database Setup
-* ▶️ [Running the Application](#️-running-the-application)
-* 🔌 [Routes / Endpoints](#-routes--endpoints)
-
-  * Auth
-  * Donor
-  * Patient
-  * Admin
-* 🧪 [Testing](#-testing)
-* 🐞 [Debugging Common Issues](#-debugging-common-issues)
-* 🔑 [Environment Variables](#-environment-variables)
-* 📮 [Postman Collection (Optional API)](#-postman-collection-optional-api)
-* 🤝 [Contributing](#-contributing)
-* 📄 [License](#-license)
 
 ---
 
